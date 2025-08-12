@@ -1,2 +1,2 @@
-# index2
+# index2.html
 Rock Paper Scissors game
